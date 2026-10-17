@@ -1,6 +1,6 @@
 # ZEDECK Open Source
 
-> Este repositório é parte da organização técnica da Zedeck's IT — ver visão geral da org em [zedecks/opensource](https://github.com/zedecks/opensource) (site-vitrine) e stack de identidade em [zedecks/design-system](https://github.com/zedecks/design-system).
+> Este repositório é parte da organização técnica da Zedeck's IT — consulte o **[Dossiê-Mestre do Ecossistema](../DOSSIE_ECOSSISTEMA_ZEDECKS.md)** e as regras em **[AGENTS.md](../AGENTS.md)** antes de iniciar qualquer trabalho. Ver também visão geral em [zedecks/opensource](https://github.com/zedecks/opensource) e identidade em [zedecks/design-system](https://github.com/zedecks/design-system).
 
 Vitrine oficial e portal curado de iniciativas, bibliotecas e projetos de código aberto da **Zedeck's IT**.
 
